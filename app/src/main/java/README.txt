@@ -1,3 +1,6 @@
+sample edit bla bla bla weeee~
+2nd line dummy text weeeee 2nd commit please
+3rd line of awesomeness
 Financial Advisor was the original name of this project.
 The main objective of the app is to help users save more money through budgeting or managing their money.
 Since it is more of budgeting than advising, the name was recently changed to Budgeteer.
